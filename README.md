@@ -1,5 +1,9 @@
 # ModuloFont
 
+## BOOM/
+A variable f%nt made with Glyphs (files and sourcse Boom/…)
+demo here : https://f-nt.eu/demo/003/index.html
+
 ## FIRST RELEASE: JACKY
 Source: https://f-nt.eu/font/jacky
 
