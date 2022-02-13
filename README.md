@@ -1,7 +1,7 @@
 # ModuloFont
 
 ## BOOM/
-A variable f%nt made with Glyphs (files and sourcse Boom/…)
+A variable f%nt made with Glyphs (files and sources Boom/…)
 demo here : https://f-nt.eu/demo/003/index.html
 
 ## FIRST RELEASE: JACKY
