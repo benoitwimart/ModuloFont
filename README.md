@@ -13,3 +13,6 @@ Source: https://f-nt.eu/font/jacky
 ### JACKYTWO
 ![jacky-font](/F-NT_Jacky/jackytwo.png)
 ![jacky-font](/F-NT_Jacky/settwo.png)
+
+
+more about me at https://jaiunsite.com
